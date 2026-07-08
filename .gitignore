@@ -1,0 +1,11 @@
+# Archivos compilados
+build/
+
+# Configuración privada de NetBeans
+nbproject/private/
+
+# Archivos JAR generados
+*.jar
+
+# Archivos de log
+*.log
