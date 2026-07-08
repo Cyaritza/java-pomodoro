@@ -19,8 +19,6 @@ PomoGreen es una aplicación de escritorio desarrollada en **Java Swing** que ay
 
 ## 📸 Capturas
 
-## 📸 Capturas
-
 ### Inicio de sesión
 
 ![Login](images/Principal_pomogreen.png)
