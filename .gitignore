@@ -1,11 +1,31 @@
 # Archivos compilados
 build/
+*.class
 
 # Configuración privada de NetBeans
 nbproject/private/
 
-# Archivos JAR generados
+# Archivos generados
+dist/
+
+# Archivos JAR
 *.jar
 
 # Archivos de log
 *.log
+
+# Archivos temporales
+*.ctxt
+.mtj.tmp/
+
+# Archivos comprimidos
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Errores de la JVM
+hs_err_pid*
+replay_pid*
